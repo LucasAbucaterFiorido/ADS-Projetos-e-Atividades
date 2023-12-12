@@ -1,0 +1,37 @@
+*               /*  config gerais */
+{
+    margin: 0px;
+    padding: 0px;
+}
+body            /*  config do body */
+{
+    background-color: #2a2a2e;
+    color: black;
+    text-align: justify;
+}
+.curriculo         /*  config curriculo  */
+{
+    margin-top: 18px;
+    background-color: white;
+    border: solid 1px;
+}
+h1                      /*  config do titulo  */
+{
+    color: cornflowerblue;
+    font-weight: 600;
+}
+hr                      /*  config da barra de separação do cabeçalho para a o conteudo  */
+{
+    border: solid black;
+    width: 800px;
+}
+.sub-titulo             /*  config de cor dos sub-titulos  */
+{
+    color: cornflowerblue;
+}
+.article            /*  configurações de posicionamento da pagina do curriculo  */
+{
+    margin-top: 80px;
+    margin-bottom: 50px;
+    padding-left: 150px;
+}
